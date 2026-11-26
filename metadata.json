@@ -1,0 +1,6 @@
+{
+  "name": "热血足球 · Nekketsu Mobile Soccer",
+  "description": "街机像素风热血足球手机端横屏游戏，支持双摇杆虚拟按键、必杀射门、4v4对抗及单HTML离线导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
